@@ -1,6 +1,7 @@
 # TERMITE - An R script for fast reduction of LA-ICPMS data and its application to trace element measurements
-## Simon A. Mischel, Regina Mertz-Kraus, Klaus Peter Jochum, Denis Scholz
-### TERMITE software repository
+## TERMITE software repository
+### Simon A. Mischel, Regina Mertz-Kraus, Klaus Peter Jochum, Denis Scholz
+
 
 This repository contains example files for the R script TERMITE. 
 
