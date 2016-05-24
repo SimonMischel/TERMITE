@@ -13,6 +13,8 @@ It is advised that the users of TERMITE should read this instruction prior to th
 Content of the example file "your_main_directory.zip"
 
 your_main_directory/ <br>
+your_main_directory/TERMITE_linescan.r <br>
+your_main_directory/TERMITE_spotscan.r <br>
 your_main_directory/TERMITEScriptFolder/ <br>
 your_main_directory/TERMITEScriptFolder/AtomGewIsoAbund_NIST.csv <br>
 your_main_directory/TERMITEScriptFolder/Auswertung_Skript_line_scan_TERMITE.r <br>
@@ -67,5 +69,3 @@ your_main_directory/ReferenceMaterial_spotscan/NIST612_spotscan_example_003.csv 
 your_main_directory/ReferenceMaterial_spotscan/NIST612_spotscan_example_004.csv <br>
 your_main_directory/ReferenceMaterial_spotscan/NIST612_spotscan_example_005.csv <br>
 your_main_directory/ReferenceMaterial_spotscan/NIST612_spotscan_example_006.csv <br>
-your_main_directory/TERMITE_linescan.r <br>
-your_main_directory/TERMITE_spotscan.r <br>
