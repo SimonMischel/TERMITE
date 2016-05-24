@@ -12,7 +12,7 @@ It is advised that the users of TERMITE should read this instruction prior to th
 
 Content of the example file "your_main_directory.zip"
 
-your_main_directory/
+your_main_directory/ <br>
 your_main_directory/Rawdata_QCM/
 your_main_directory/Rawdata_QCM/MACS3_QCM_example-002.asc
 your_main_directory/Rawdata_QCM/MACS3_QCM_example-003.asc
