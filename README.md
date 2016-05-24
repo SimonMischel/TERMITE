@@ -24,9 +24,6 @@ your_main_directory/TERMITEScriptFolder/Standards_GeoReM.csv <br>
 your_main_directory/TERMITEScriptFolder/Auswertung_Skript_line_scan_TERMITE.r <br>
 your_main_directory/TERMITEScriptFolder/Auswertung_Skript_spot_scan_TERMITE.r <br>
 your_main_directory/TERMITEScriptFolder/.Rhistory <br>
-your_main_directory/TERMITE_Manuscript/ <br>
-your_main_directory/TERMITE_Manuscript/TERMITE1_final.docx <br>
-your_main_directory/TERMITE_Manuscript/Step_by_step_Instruction_TERMITE.docx <br>
 your_main_directory/.Rhistory <br>
 your_main_directory/Results/ <br>
 your_main_directory/Results/rawCountrate_your_sample_name_spotscan.pdf <br>
