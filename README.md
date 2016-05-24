@@ -69,3 +69,4 @@ your_main_directory/ReferenceMaterial_spotscan/NIST612_spotscan_example_004.csv
 your_main_directory/ReferenceMaterial_spotscan/NIST612_spotscan_example_001.csv
 your_main_directory/ReferenceMaterial_spotscan/NIST612_spotscan_example_003.csv
 your_main_directory/TERMITE_linescan.r
+
