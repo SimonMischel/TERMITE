@@ -9,7 +9,7 @@ This repository contains example files for the R script TERMITE.
 The user should download the file your_main_directory.zip and unzip the example file. 
 Included is the script and the mandatory files and folders. <br>
 
-A step by step guide for using the script is provided within the TERMITE repository.
+A step by step guide (file: Step_by_step_Instruction_TERMITE.docx) for using the script is provided within the TERMITE repository.
 It is advised that the users of TERMITE should read this instruction prior to the first use of TERMITE.
 
 
