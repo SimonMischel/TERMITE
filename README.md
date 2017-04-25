@@ -21,8 +21,8 @@ your_main_directory/TERMITE_spotscan.r <br>
 your_main_directory/TERMITEScriptFolder/ <br>
 your_main_directory/TERMITEScriptFolder/AtomGewIsoAbund_NIST.csv <br>
 your_main_directory/TERMITEScriptFolder/Standards_GeoReM.csv <br>
-your_main_directory/TERMITEScriptFolder/Auswertung_Skript_line_scan_TERMITE.r <br>
-your_main_directory/TERMITEScriptFolder/Auswertung_Skript_spot_scan_TERMITE.r <br>
+your_main_directory/TERMITEScriptFolder/Correction_Skript_line_scan_TERMITE.r <br>
+your_main_directory/TERMITEScriptFolder/Correction_Skript_spot_scan_TERMITE.r <br>
 your_main_directory/TERMITEScriptFolder/.Rhistory <br>
 your_main_directory/.Rhistory <br>
 your_main_directory/Results/ <br>
